@@ -1,13 +1,5 @@
 # mintlyfy Landing Page
 
-A modern, responsive landing page for Mintlyfy.
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-
 ### Clone the Repository
 
 ```bash
