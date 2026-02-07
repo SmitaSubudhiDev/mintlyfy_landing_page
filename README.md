@@ -15,49 +15,19 @@ git clone https://github.com/SmitaSubudhiDev/mintlyfy_landing_page.git
 cd mintlyfy_landing_page
 ```
 
-### Installation
-
-```bash
-npm install
-# or
-yarn install
-```
-
-### Running the Project
-
-```bash
-npm start
-# or
-yarn start
-```
-
-The application will open at `http://localhost:3000`
-
 ## 📋 Project Status
 
 ### ✅ Completed Sections
-- **Navigation Bar** - Fully functional responsive navigation
-- **Hero Section** - Eye-catching hero section with call-to-action
+- **Navigation Bar**
+- **Hero Section**
 
-### 🔄 In Progress
-- Additional sections coming soon...
-
-### 📅 Upcoming Sections
-- Features Section
-- Services Section
-- Testimonials Section
-- Contact Section
-- Footer
 
 ## 📸 Preview
 
 ### Screenshots
-Coming soon...
+<img width="1903" height="622" alt="image" src="https://github.com/user-attachments/assets/a11baf02-60fc-4305-8aba-5d3538b88b44" />
+<img width="1902" height="986" alt="image" src="https://github.com/user-attachments/assets/7792ef70-6f7b-4b74-9fa3-3200c92421ee" />
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
 
 Created by [SmitaSubudhiDev](https://github.com/SmitaSubudhiDev)
